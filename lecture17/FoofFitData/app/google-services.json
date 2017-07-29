@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337438032666",
+    "project_id": "civil-keyword-140205"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337438032666:android:d243c3e8838122d7",
+        "android_client_info": {
+          "package_name": "com.example.tanya.fooffitdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337438032666-g9ikfndmr9mk496ihc9q2bd1lnaphn46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanya.fooffitdata",
+            "certificate_hash": "6ABACDAE8D34DDCDF47E7213825CE20EA2916079"
+          }
+        },
+        {
+          "client_id": "337438032666-cmmj6cffgnblafrdt27ibehivvmdtr5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5zcIA8ZEEAW4UVSU0h8RYGkcQn6SC-lU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

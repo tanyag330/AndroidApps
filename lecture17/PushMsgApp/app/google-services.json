@@ -1,0 +1,74 @@
+{
+  "project_info": {
+    "project_number": "811003596601",
+
+    "firebase_url": "https://my-pushmsg-app-d31d4.firebaseio.com",
+    "project_id": "my-pushmsg-app-d31d4",
+    "storage_bucket": "my-pushmsg-app-d31d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info":
+      {
+        "mobilesdk_app_id":
+        "1:811003596601:android:b551795a90d8ee7e",
+
+        "android_client_info": {
+          "package_name":
+          "com.example.tanya.pushmsgapp"
+        }
+      },
+
+      "oauth_client": [
+        {
+          "client_id":
+          "811003596601-ck1i73c79f4fdi483v3kvc8n2kr9larg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+
+            "package_name": "com.example.tanya.pushmsgapp",
+
+            "certificate_hash":
+            "6ABACDAE8D34DDCDF47E7213825CE20EA2916079"
+          }
+
+        },
+        {
+          "client_id": "811003596601-l4tsk8urqegqfe0ug3q0vbc3psrik26e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key":
+      [
+        {
+          "current_key":
+          "AIzaSyAn2WL3PWh_iaktRL5Hjr8gaOPdxEOj0bI"
+        }
+      ],
+
+      "services": {
+        "analytics_service": {
+
+          "status": 1
+        },
+        "appinvite_service": {
+
+          "status": 2,
+          "other_platform_oauth_client": [
+
+            {
+              "client_id": "811003596601-l4tsk8urqegqfe0ug3q0vbc3psrik26e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+
+        },
+        "ads_service": {
+          "status": 2
+        }
+
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

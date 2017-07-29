@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Novels</string>
+    <string name="title_novel_list">Novels</string>
+    <string name="title_novel_detail">Novel Detail</string>
+</resources>

@@ -1,0 +1,46 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tanya.ass6students.FirstFragment">
+
+
+    <ImageView
+        android:id="@+id/iv_photo1"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_gravity="right|top" />
+
+    <TextView
+        android:text="Student Name"
+        android:id="@+id/tv_student_name"
+        android:layout_width="230dp"
+        android:layout_height="40dp"
+        android:layout_gravity="right|center_vertical"
+        android:textAlignment="center"
+        android:textSize="30dp" />
+
+    <TextView
+        android:text="Phone no."
+        android:id="@+id/tv_phone_no."
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:layout_gravity="right|bottom"
+        android:clickable="true"
+        android:onClick="call"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textSize="30dp"
+        android:textIsSelectable="false" />
+
+    <TextView
+        android:id="@+id/tv_college_name"
+
+        android:text="College Name: MAHARAJA AGARSEN INSTITUTE OF TECHNOLOGY"
+        android:layout_width="210dp"
+        android:layout_height="200dp"
+        android:layout_gravity="right|bottom"
+        android:textSize="25dp" />
+
+
+
+</FrameLayout>
