@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "346412192968",
+    "firebase_url": "https://reddrop-805e5.firebaseio.com",
+    "project_id": "reddrop-805e5",
+    "storage_bucket": "reddrop-805e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346412192968:android:95e2c4dfbde922b2",
+        "android_client_info": {
+          "package_name": "com.org.rayklabs.reddrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346412192968-ci9774gueg7g127o0imeo6kp87dlhh1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.org.rayklabs.reddrop",
+            "certificate_hash": "a6aeed5aea420af872d3c5387bfc9675cd3666d2"
+          }
+        },
+        {
+          "client_id": "346412192968-tleo0labssbssva0gjo74q4lu8bg1ucb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCF043fJEfmSuM6v8EDFIqUMDWx9dXjXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346412192968-tleo0labssbssva0gjo74q4lu8bg1ucb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

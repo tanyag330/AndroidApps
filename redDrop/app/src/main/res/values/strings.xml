@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">redDrop</string>
+
+
+    <!--Login Activity-->
+
+    <string name="login_button"> LOGIN </string>
+    <string name="hint_user_name">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="goto_register"> Not a Member? Sign up now.</string>
+    <string name="forgot_password">Forgot your login details? Get help signing in</string>
+    <string name="loading">Loading...</string>
+    <string name="app_id">1660354477601195</string>
+
+
+    <!--Register Activity-->
+
+    <string name="register_label">Registration</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password_reg">Password</string>
+    <string name="btn_register">Register</string>
+
+    <!--Main Activity-->
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+
+<!--    key  AIzaSyBCF043fJEfmSuM6v8EDFIqUMDWx9dXjXw-->
+
+    <string name="google_server_client_id">346412192968-ci9774gueg7g127o0imeo6kp87dlhh1b.apps.googleusercontent.com</string>
+    <string name="client_secret">37fb65cdd91a007ddfe5cfde320f88f2</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">20dbaf9e91fa498bb515a669d82f8d7e</string>
+
+</resources>

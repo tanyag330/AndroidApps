@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="TWITTER_CONSUMER_KEY">4Iu0K2Q3jddJMO6TqsQxqFGT8</string>
+    <string name="TWITTER_CONSUMER_SECRET">gDCrrFRRbveKb71gCCKNURR1iv6c9r3sLsD5x0GNAYXP58BRoA</string>
+    <string name="TWITTER_CALLBACK_URL">http://www.reddrop.org/</string>
+
+</resources>
